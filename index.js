@@ -2,7 +2,7 @@ const solanaWeb3 = require('@solana/web3.js');
 const bs58 = require('bs58'); // Base58 encoding library (used by Solana)
 const readline = require('readline');
 
-
+//text
 // Helper for user input
 const rl = readline.createInterface({
   input: process.stdin,
